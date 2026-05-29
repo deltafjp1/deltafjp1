@@ -30,7 +30,7 @@ I am a Junior Data Analyst with experience in KPI monitoring, operational analys
 
 ### 1. Analítica operativa para Call Center / Call Center Operational Analytics
 
-[Ver caso en GitHub / View case on GitHub](https://github.com/deltafjp1/Proyecto-Final-Analtica-Operativa-A-B-Testing-SQL-Python-PostgreSQL-)
+[Ver caso / View case](https://github.com/deltafjp1/Proyecto-Final-Analtica-Operativa-A-B-Testing-SQL-Python-PostgreSQL-#case-1-operational-analytics)
 
 🇪🇸
 Caso incluido dentro del proyecto integral **Data Analytics Portfolio Project | Operational Analytics, A/B Testing & SQL**.
@@ -47,7 +47,7 @@ Diagnostic analysis to identify low-performing operators using operational metri
 
 ### 2. Prueba A/B para funnel de conversión / A/B Testing for Conversion Funnel
 
-[Ver caso en GitHub / View case on GitHub](https://github.com/deltafjp1/Proyecto-Final-Analtica-Operativa-A-B-Testing-SQL-Python-PostgreSQL-)
+[Ver caso / View case](https://github.com/deltafjp1/Proyecto-Final-Analtica-Operativa-A-B-Testing-SQL-Python-PostgreSQL-#case-2-ab-testing)
 
 🇪🇸
 Caso incluido dentro del proyecto integral **Data Analytics Portfolio Project | Operational Analytics, A/B Testing & SQL**.
@@ -64,7 +64,7 @@ Evaluation of an A/B test to determine whether a new funnel experience improves 
 
 ### 3. Análisis SQL de base de datos editorial / SQL Business Analytics
 
-[Ver caso en GitHub / View case on GitHub](https://github.com/deltafjp1/Proyecto-Final-Analtica-Operativa-A-B-Testing-SQL-Python-PostgreSQL-)
+[Ver caso / View case](https://github.com/deltafjp1/Proyecto-Final-Analtica-Operativa-A-B-Testing-SQL-Python-PostgreSQL-#case-3-sql-business-analytics)
 
 🇪🇸
 Caso incluido dentro del proyecto integral **Data Analytics Portfolio Project | Operational Analytics, A/B Testing & SQL**.
