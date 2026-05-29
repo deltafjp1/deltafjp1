@@ -30,10 +30,14 @@ I am a Junior Data Analyst with experience in KPI monitoring, operational analys
 
 ### 1. Analítica operativa para Call Center / Call Center Operational Analytics
 
+[Ver caso en GitHub / View case on GitHub](https://github.com/deltafjp1/Proyecto-Final-Analtica-Operativa-A-B-Testing-SQL-Python-PostgreSQL-)
+
 🇪🇸
+Caso incluido dentro del proyecto integral **Data Analytics Portfolio Project | Operational Analytics, A/B Testing & SQL**.
 Análisis diagnóstico para identificar operadores con bajo desempeño usando métricas operativas como tasa de llamadas perdidas, tiempo promedio de espera y volumen de llamadas salientes.
 
 🇬🇧
+Case included in the broader **Data Analytics Portfolio Project | Operational Analytics, A/B Testing & SQL**.
 Diagnostic analysis to identify low-performing operators using operational metrics such as missed call rate, average waiting time, and outbound call volume.
 
 **Herramientas / Tools:** Python, pandas, statistical testing
@@ -43,11 +47,15 @@ Diagnostic analysis to identify low-performing operators using operational metri
 
 ### 2. Prueba A/B para funnel de conversión / A/B Testing for Conversion Funnel
 
+[Ver caso en GitHub / View case on GitHub](https://github.com/deltafjp1/Proyecto-Final-Analtica-Operativa-A-B-Testing-SQL-Python-PostgreSQL-)
+
 🇪🇸
-Evaluación de una prueba A/B para determinar si una nueva experiencia de pago mejora la conversión de usuarios.
+Caso incluido dentro del proyecto integral **Data Analytics Portfolio Project | Operational Analytics, A/B Testing & SQL**.
+Evaluación de una prueba A/B para determinar si una nueva experiencia de funnel mejora la conversión de usuarios frente al grupo de control.
 
 🇬🇧
-Evaluation of an A/B test to determine whether a new payment experience improves user conversion.
+Case included in the broader **Data Analytics Portfolio Project | Operational Analytics, A/B Testing & SQL**.
+Evaluation of an A/B test to determine whether a new funnel experience improves user conversion compared to the control group.
 
 **Herramientas / Tools:** Python, pandas, hypothesis testing, funnel analysis
 **Valor de negocio / Business Value:** Validación de decisiones de producto con evidencia estadística.
@@ -56,16 +64,19 @@ Evaluation of an A/B test to determine whether a new payment experience improves
 
 ### 3. Análisis SQL de base de datos editorial / SQL Business Analytics
 
+[Ver caso en GitHub / View case on GitHub](https://github.com/deltafjp1/Proyecto-Final-Analtica-Operativa-A-B-Testing-SQL-Python-PostgreSQL-)
+
 🇪🇸
+Caso incluido dentro del proyecto integral **Data Analytics Portfolio Project | Operational Analytics, A/B Testing & SQL**.
 Consultas SQL sobre una base relacional de libros, autores, editoriales, calificaciones y reseñas para responder preguntas de negocio.
 
 🇬🇧
+Case included in the broader **Data Analytics Portfolio Project | Operational Analytics, A/B Testing & SQL**.
 SQL queries on a relational database of books, authors, publishers, ratings, and reviews to answer business questions.
 
 **Herramientas / Tools:** PostgreSQL, SQL, joins, aggregations, CTEs
 **Valor de negocio / Business Value:** Extracción de KPIs desde bases de datos relacionales.
 
----
 
 ### 4. Dashboard de tendencias de YouTube / YouTube Trending Dashboard
 
