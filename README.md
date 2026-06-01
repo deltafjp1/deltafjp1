@@ -77,8 +77,12 @@ SQL queries on a relational database of books, authors, publishers, ratings, and
 **Herramientas / Tools:** PostgreSQL, SQL, joins, aggregations, CTEs
 **Valor de negocio / Business Value:** Extracción de KPIs desde bases de datos relacionales.
 
+---
 
 ### 4. Dashboard de tendencias de YouTube / YouTube Trending Dashboard
+
+[Ver dashboard / View dashboard](https://public.tableau.com/app/profile/francisco.pinto2384/viz/Proyectosprint12_17610982956680/DashboarddeTendencias)  
+[Ver repositorio / View repository](https://github.com/deltafjp1/Proyecto_Dashboard-_Tableau)
 
 🇪🇸
 Dashboard interactivo en Tableau para analizar videos en tendencia por categoría, región y fecha.
@@ -92,6 +96,9 @@ Interactive Tableau dashboard to analyze trending YouTube videos by category, re
 ---
 
 ### 5. App EDA de vehículos usados / Used Vehicles EDA App
+
+[Ver app / View app](https://proyecto-sprint-7-2p3r.onrender.com/)  
+[Ver repositorio / View repository](https://github.com/deltafjp1/Proyecto_Dashboard_Interactivo_Vehiculos_Usados_Streamlit)
 
 🇪🇸
 Aplicación interactiva en Streamlit para explorar patrones de precio, kilometraje y distribución de vehículos usados.
